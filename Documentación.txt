@@ -1,0 +1,33 @@
+El compilador lee un archivo llamado codigo_fuente.txt (El cual ya viene con un codigo de ejemplo, así que se puede partir de ese para modificarlo y probarlo) con el codigo fuente y escribirá el codigo intermedio en el archivo Generated_code.js que es javascript
+
+El lenguaje que he creado es casi como cualquier otro lenguaje con { y ; pero en español.
+Algunas funcionalidades podrían no estar completas.
+
+Tipos de datos:
+
+ent : entero
+flot : flotante
+car : caracteres
+
+Palabras reservadas para el control del flujo del programa:
+'mientras', 'para', 'romper', 'continuar', 'retornar', 'si', 'funcion', 'clase'
+
+Operadores:
+=
++
+-
+/
+*
+<
+>
+
+Simbolos de puntuación:
+;
+(
+)
+[
+]
+{
+}
+
+Al momento de hacer esta documentación la interfaz está en desarrollo, probablemente para la presentación la tenga lista para facilitar la presentación y prueba de este en clase.
