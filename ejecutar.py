@@ -1,0 +1,4 @@
+import analizador_lexico
+import analizador_sintactico
+import analizador_semantico
+import generador
